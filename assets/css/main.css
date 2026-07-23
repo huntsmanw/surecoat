@@ -3411,14 +3411,6 @@ input, select, textarea {
 				width: 2.25em;
 			}
 
-			#banner .logo .icon img {
-				width: 100%;
-				height: 100%;
-				object-fit: contain;
-				border-radius: 100%;
-				display: block;
-			}
-
 		#banner h2 {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
